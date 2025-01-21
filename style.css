@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.btn-header{
+    color: #fff;
+    background-color: #FF8100;
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+}
+.hero{
+    background-image: url(img/background.png);
+    padding: 50px;
+}
+
+.btn-hero{
+    background-color: #FFDDBF;
+    color: #000;
+    border: 0;
+    padding: 15px;
+    border-radius: 10px;
+}
+.hero-h1{
+    font-size: 60px;
+}
+
+.btn-hero-2{
+    background-color: #FCA61F;
+    color: #fff;
+    padding: 10px;
+    border: 0;
+    border-radius: 10px;
+}
+
+.casestudies{
+    background-color: #f1f4fc;
+    padding: 50px;
+}
+
+.box{
+    background-color: #FFF8F2;
+    border-radius: 30px;
+     margin-bottom: 30px;
+}
+
+.box-2{
+    background-color: #FFF8F2;
+    border-radius: 30px;
+    margin-bottom: 30px;
+
+}
+
+.box-3{
+    background-color: #FFF8F2;
+    border-radius: 30px;
+    margin-bottom: 30px;
+
+}
+
+.casestudies-title{
+    color: #000;
+    
+}
+
+.casestudies-p{
+    font-size: 20px;
+}
+
+.casestudies-a{
+    text-decoration: none;
+    color: #4E5E80;
+    font-size: 20px;
+}
+
+.artical{
+    background-color: #f1f4fc;
+
+}
+
+.artical-5{
+    background-color: #DDD6FE;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.artical-5-p{
+    font-size: 20px;
+}
+
+.artical-5-button{
+    background-color: #AF51C5;
+    color: #fff;
+    border: 0;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.subsribe{
+    background-color: #FFF2C5;
+}
+
+.btn-form{
+    border: 0;
+    background-color: #F2C94C;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.conact-part{
+    background-color: #EFF0F3;
+}
+.conact-h1{
+    padding-top: 100px;
+}
+.follow-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.follow-button{
+    background-color: #FFDDBF;
+    text-decoration: none;
+    color: #000;
+     font-size: 20px;
+     border-radius: 10px;
+     padding: 10px 20px;
+     font-size: 25px;
+}
+
+.icon-container{
+    display: flex;
+    justify-content: center;
+}
+
+/* This part for projects page */
+.projects{
+    background-image: url(img/background-2.png);
+}
+.project-title{
+    font-size: 60px;
+}
+.project-box1{
+    background-color: #FCA61F;
+    border-radius: 30px;
+    padding: 20px;
+}
+.project-p{
+    background-color: #FFDDBF;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.project-box-text{
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 30px;
+}
